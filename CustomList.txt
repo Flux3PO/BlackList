@@ -1,4 +1,5 @@
 luckypool.io
+swap2.luckypool.io
 matomo.tarnkappe.info
 pubmatic.io
 leanplum.com
