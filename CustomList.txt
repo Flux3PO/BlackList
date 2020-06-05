@@ -1,6 +1,6 @@
-# Facebook
-
-facebook.com
-www.facebook.com
-m.facebook.com
-connect.facebook.net
+(\.|^)luckypool\.io$
+matomo.tarnkappe.info
+(\.|^)pubmatic\.io$
+(\.|^)leanplum\.com$
+(\.|^)consensu\.org$
+yt3.ggpht.com
