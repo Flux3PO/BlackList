@@ -1,6 +1,6 @@
-(\.|^)luckypool\.io$
+luckypool.io
 matomo.tarnkappe.info
-(\.|^)pubmatic\.io$
-(\.|^)leanplum\.com$
-(\.|^)consensu\.org$
+pubmatic.io
+leanplum.com
+consensu.org
 yt3.ggpht.com
