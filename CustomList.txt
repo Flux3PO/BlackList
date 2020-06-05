@@ -9,3 +9,5 @@ consensu.org
 vendorlist.consensu.org
 yt3.ggpht.com
 confiant-integrations.global.ssl.fastly.net
+analytics.prod1.kraken.com
+api2.branch.io
