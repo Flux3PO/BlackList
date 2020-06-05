@@ -13,3 +13,4 @@
 0.0.0.0 api2.branch.io
 0.0.0.0 analytics.service.cryptowat.ch
 0.0.0.0 common.i12.de
+0.0.0.0 ads.westfunk.de
