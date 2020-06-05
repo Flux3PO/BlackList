@@ -14,3 +14,4 @@
 0.0.0.0 analytics.service.cryptowat.ch
 0.0.0.0 common.i12.de
 0.0.0.0 ads.westfunk.de
+0.0.0.0 maxcdn.bootstrapcdn.com
