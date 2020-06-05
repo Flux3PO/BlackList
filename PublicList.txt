@@ -11,3 +11,5 @@
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 analytics.prod1.kraken.com
 0.0.0.0 api2.branch.io
+0.0.0.0 analytics.service.cryptowat.ch
+0.0.0.0 common.i12.de
