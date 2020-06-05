@@ -2,6 +2,10 @@ luckypool.io
 swap2.luckypool.io
 matomo.tarnkappe.info
 pubmatic.io
+hbopenbid.pubmatic.com
 leanplum.com
+api.leanplum.com
 consensu.org
+vendorlist.consensu.org
 yt3.ggpht.com
+confiant-integrations.global.ssl.fastly.net
