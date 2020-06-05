@@ -1,13 +1,13 @@
-luckypool.io
-swap2.luckypool.io
-matomo.tarnkappe.info
-pubmatic.io
-hbopenbid.pubmatic.com
-leanplum.com
-api.leanplum.com
-consensu.org
-vendorlist.consensu.org
-yt3.ggpht.com
-confiant-integrations.global.ssl.fastly.net
-analytics.prod1.kraken.com
-api2.branch.io
+0.0.0.0 luckypool.io
+0.0.0.0 swap2.luckypool.io
+0.0.0.0 matomo.tarnkappe.info
+0.0.0.0 pubmatic.io
+0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 leanplum.com
+0.0.0.0 api.leanplum.com
+0.0.0.0 consensu.org
+0.0.0.0 vendorlist.consensu.org
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 confiant-integrations.global.ssl.fastly.net
+0.0.0.0 analytics.prod1.kraken.com
+0.0.0.0 api2.branch.io
