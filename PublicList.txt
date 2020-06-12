@@ -20,3 +20,5 @@
 0.0.0.0 ads.westfunk.de
 :: ads.westfunk.de
 0.0.0.0 maxcdn.bootstrapcdn.com
+:: www.google-analytics.com
+0.0.0.0 www.google-analytics.com
