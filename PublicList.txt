@@ -18,8 +18,7 @@
 0.0.0.0 analytics.service.cryptowat.ch
 0.0.0.0 common.i12.de
 0.0.0.0 ads.westfunk.de
-:: ads.westfunk.de
 0.0.0.0 maxcdn.bootstrapcdn.com
-:: www.google-analytics.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 analytics.vxcdn.com
+0.0.0.0 js-sec.indexww.com
