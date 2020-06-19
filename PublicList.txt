@@ -22,3 +22,9 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 analytics.vxcdn.com
 0.0.0.0 js-sec.indexww.com
+0.0.0.0 as.otto.de
+0.0.0.0 i.otto.de
+0.0.0.0 pixel.ionos.de
+0.0.0.0 pixel.consentric.de
+0.0.0.0 pxc.otto.de.c.footprint.net
+0.0.0.0 stats.t-online.de
