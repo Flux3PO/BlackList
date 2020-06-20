@@ -24,4 +24,3 @@
 0.0.0.0 as.otto.de
 0.0.0.0 pixel.ionos.de
 0.0.0.0 pixel.consentric.de
-0.0.0.0 stats.t-online.de
