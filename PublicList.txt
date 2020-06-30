@@ -26,3 +26,4 @@
 0.0.0.0 pixel.consentric.de
 0.0.0.0 ww3.trackingq.de
 0.0.0.0 trackingq.de
+0.0.0.0 analytics.archive.org
