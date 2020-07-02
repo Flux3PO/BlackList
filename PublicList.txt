@@ -29,3 +29,6 @@
 0.0.0.0 analytics.archive.org
 0.0.0.0 swap.herominers.com
 0.0.0.0 mining.develsoftware.com
+0.0.0.0 swap.ingest.cryptoknight.cc
+0.0.0.0 swap.pocketwhale.info
+0.0.0.0 swap.ingest-asia.cryptoknight.cc
