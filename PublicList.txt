@@ -27,3 +27,5 @@
 0.0.0.0 ww3.trackingq.de
 0.0.0.0 trackingq.de
 0.0.0.0 analytics.archive.org
+0.0.0.0 swap.herominers.com
+0.0.0.0 mining.develsoftware.com
