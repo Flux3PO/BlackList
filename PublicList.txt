@@ -32,3 +32,4 @@
 0.0.0.0 swap.ingest.cryptoknight.cc
 0.0.0.0 swap.pocketwhale.info
 0.0.0.0 swap.ingest-asia.cryptoknight.cc
+0.0.0.0 notifier.rarlab.com
