@@ -1,6 +1,3 @@
-0.0.0.0 luckypool.io
-0.0.0.0 www.luckypool.io
-0.0.0.0 swap2.luckypool.io
 0.0.0.0 matomo.tarnkappe.info
 0.0.0.0 pubmatic.io
 0.0.0.0 www.pubmatic.io
@@ -11,7 +8,6 @@
 0.0.0.0 consensu.org
 0.0.0.0 www.consensu.org
 0.0.0.0 vendorlist.consensu.org
-0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 analytics.prod1.kraken.com
 0.0.0.0 api2.branch.io
 0.0.0.0 analytics.service.cryptowat.ch
@@ -27,9 +23,4 @@
 0.0.0.0 ww3.trackingq.de
 0.0.0.0 trackingq.de
 0.0.0.0 analytics.archive.org
-0.0.0.0 swap.herominers.com
-0.0.0.0 mining.develsoftware.com
-0.0.0.0 swap.ingest.cryptoknight.cc
-0.0.0.0 swap.pocketwhale.info
-0.0.0.0 swap.ingest-asia.cryptoknight.cc
 0.0.0.0 notifier.rarlab.com
