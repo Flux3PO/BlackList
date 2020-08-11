@@ -8,3 +8,9 @@
 0.0.0.0 urs.microsoft.com.nsatc.net
 0.0.0.0 vsgallery.com
 0.0.0.0 telemetry.remoteapp.windowsazure.com
+0.0.0.0 bild.de
+0.0.0.0 www.bild.de
+0.0.0.0 wetter.bild.de
+0.0.0.0 don.bild.de
+0.0.0.0 shop.bild.de
+0.0.0.0 epaper.bild.de
