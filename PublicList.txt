@@ -26,3 +26,4 @@
 0.0.0.0 notifier.rarlab.com
 0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 tracking.nw.de
+0.0.0.0 googleads.g.doubleclick.net
