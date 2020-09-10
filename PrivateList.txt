@@ -14,3 +14,5 @@
 0.0.0.0 don.bild.de
 0.0.0.0 shop.bild.de
 0.0.0.0 epaper.bild.de
+0.0.0.0 connect.de
+0.0.0.0 www.connect.de
