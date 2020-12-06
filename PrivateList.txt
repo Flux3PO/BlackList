@@ -16,3 +16,4 @@
 0.0.0.0 epaper.bild.de
 0.0.0.0 connect.de
 0.0.0.0 www.connect.de
+0.0.0.0 fr.app.chat.global.xiaomi.net
