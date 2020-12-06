@@ -28,3 +28,5 @@
 0.0.0.0 tracking.nw.de
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 sayhi.bplace.net # https://en.cryptonomist.ch/2020/08/18/malware-monero-aws/
+0.0.0.0 adservice.google.com
+0.0.0.0 ad.doubleclick.net
