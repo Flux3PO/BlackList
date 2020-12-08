@@ -31,3 +31,5 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 telemetry.yazio.com
+0.0.0.0 v1.green-ads.net
