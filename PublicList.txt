@@ -33,4 +33,11 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 telemetry.yazio.com
+0.0.0.0 bigdata.ssp.samsung.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 supportmetrics.apple.com
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 analytics.oneplus.cn
+0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 v1.green-ads.net
