@@ -41,3 +41,5 @@
 0.0.0.0 analytics.oneplus.cn
 0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 v1.green-ads.net
+0.0.0.0 www.cdn.ad.xiaomi.com
+0.0.0.0 youtube.cleverads.vn
