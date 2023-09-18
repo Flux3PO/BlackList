@@ -46,3 +46,4 @@
 0.0.0.0 trk.pinterest.com
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 securemetrics.apple.com
+0.0.0.0 telemetry.gfe.nvidia.com
