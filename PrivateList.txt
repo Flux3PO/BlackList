@@ -19,6 +19,25 @@
 0.0.0.0 fr.app.chat.global.xiaomi.net
 0.0.0.0 xmrig.moneroocean.stream
 
+#Office Telemetry
+#https://learn.microsoft.com/de-de/windows/privacy/configure-windows-diagnostic-data-in-your-organization
+
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 v10c.events.data.microsoft.com
+0.0.0.0 v10.vortex-win.data.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 umwatsonc.events.data.microsoft.com
+0.0.0.0 *-umwatsonc.events.data.microsoft.com
+0.0.0.0 ceuswatcab01.blob.core.windows.net
+0.0.0.0 ceuswatcab02.blob.core.windows.net
+0.0.0.0 eaus2watcab01.blob.core.windows.net
+0.0.0.0 eaus2watcab02.blob.core.windows.net
+0.0.0.0 weus2watcab01.blob.core.windows.net
+0.0.0.0 weus2watcab02.blob.core.windows.net
+0.0.0.0 oca.microsoft.com
+0.0.0.0 kmwatsonc.events.data.microsoft.com
+0.0.0.0 *-kmwatsonc.events.data.microsoft.com
+
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: PERISCOPE
 # ----------------------------------------------------------
