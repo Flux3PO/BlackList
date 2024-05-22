@@ -47,3 +47,6 @@
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 (\.|^)entry\.io$
+0.0.0.0 location.services.mozilla.org
