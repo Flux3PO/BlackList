@@ -51,4 +51,4 @@
 0.0.0.0 (\.|^)entry\.io$
 0.0.0.0 location.services.mozilla.org
 0.0.0.0 polyfill.io
-0.0.0.0  cdn.polyfill.io
+0.0.0.0 cdn.polyfill.io
