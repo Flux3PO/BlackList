@@ -56,17 +56,17 @@
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 reporting.duit.de
 0.0.0.0 geolocation.onetrust.com
-||*.adjust.*
+||*.adjust.*^
 0.0.0.0 entry.io
 0.0.0.0 adperfect.shop
-||*.googleadservices.com
+||*.googleadservices.com^
 0.0.0.0 smartclip.net
 0.0.0.0 px1.vtrtl.de
-||*samsungcloud.tv
-||*.samsungcloudsolution.com
-||*.samsungacr.com
-||*.163.com
+||*samsungcloud.tv^
+||*.samsungcloudsolution.com^
+||*.samsungacr.com^
+||*.163.com^
 0.0.0.0 api.motion-tag.de
 0.0.0.0 api.helpshift.com
 0.0.0.0 rtm-intl-frontgate.ilivedata.com
-||*163yun.com
+||*163yun.com^
