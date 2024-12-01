@@ -59,7 +59,7 @@
 ||adjust.com^
 0.0.0.0 entry.io
 0.0.0.0 adperfect.shop
-||*.googleadservices.com^
+||googleadservices.com^
 0.0.0.0 smartclip.net
 0.0.0.0 px1.vtrtl.de
 ||samsungcloud.tv^
