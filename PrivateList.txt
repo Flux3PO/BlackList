@@ -71,6 +71,6 @@
 ||rtm-intl-frontgate.ilivedata.com^
 ||163yun.com^
 ||graph.facebook.com^
-||logagent-*.centurygame.com^
-||*-collector.centurygame.com^
+||logagent-.centurygame.com^
+||-collector.centurygame.com^
 
