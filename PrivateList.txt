@@ -56,7 +56,7 @@
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 reporting.duit.de
 0.0.0.0 geolocation.onetrust.com
-||*.adjust.com^
+||adjust.com^
 0.0.0.0 entry.io
 0.0.0.0 adperfect.shop
 ||googleadservices.com^
