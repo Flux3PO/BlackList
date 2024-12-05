@@ -74,3 +74,4 @@
 ||logagent-rum.centurygame.com^
 ||ta-collector.centurygame.com^
 ||logagent-wf.centurygame.com^
+||adjust.net.in^
