@@ -1,72 +1,72 @@
-0.0.0.0 matomo.tarnkappe.info
-0.0.0.0 pubmatic.io
-0.0.0.0 www.pubmatic.io
-0.0.0.0 hbopenbid.pubmatic.com
-0.0.0.0 leanplum.com
-0.0.0.0 www.leanplum.com
-0.0.0.0 api.leanplum.com
-0.0.0.0 consensu.org
-0.0.0.0 www.consensu.org
-0.0.0.0 vendorlist.consensu.org
-0.0.0.0 analytics.prod1.kraken.com
-0.0.0.0 analytics.kraken.com
-0.0.0.0 api2.branch.io
-0.0.0.0 analytics.service.cryptowat.ch
-0.0.0.0 common.i12.de
-0.0.0.0 ads.westfunk.de
-0.0.0.0 maxcdn.bootstrapcdn.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 analytics.vxcdn.com
-0.0.0.0 js-sec.indexww.com
-0.0.0.0 as.otto.de
-0.0.0.0 pixel.ionos.de
-0.0.0.0 pixel.consentric.de
-0.0.0.0 ww3.trackingq.de
-0.0.0.0 trackingq.de
-0.0.0.0 analytics.archive.org
-0.0.0.0 notifier.rarlab.com
-0.0.0.0 prod.telemetry.ros.rockstargames.com
-0.0.0.0 tracking.nw.de
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 sayhi.bplace.net # https://en.cryptonomist.ch/2020/08/18/malware-monero-aws/
-0.0.0.0 adservice.google.com
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 telemetry.yazio.com
-0.0.0.0 bigdata.ssp.samsung.com
-0.0.0.0 metrics.mzstatic.com
-0.0.0.0 metrics.icloud.com
-0.0.0.0 supportmetrics.apple.com
-0.0.0.0 analytics-api.samsunghealthcn.com
-0.0.0.0 analytics.oneplus.cn
-0.0.0.0 sa.api.intl.miui.com
-0.0.0.0 v1.green-ads.net
-0.0.0.0 www.cdn.ad.xiaomi.com
-0.0.0.0 youtube.cleverads.vn
-0.0.0.0 trk.pinterest.com
-0.0.0.0 appmetrica.yandex.com
-0.0.0.0 securemetrics.apple.com
-0.0.0.0 telemetry.gfe.nvidia.com
-0.0.0.0 firebaseinstallations.googleapis.com
-0.0.0.0 location.services.mozilla.org
-0.0.0.0 polyfill.io
-0.0.0.0 cdn.polyfill.io
-0.0.0.0 donate.v2.xmrig.com
-0.0.0.0 admarkt.ebay-kleinanzeigen.de
-0.0.0.0 tracking.epicgames.com
-0.0.0.0 reporting.duit.de
-0.0.0.0 geolocation.onetrust.com
+||matomo.tarnkappe.info^
+||pubmatic.io^
+||www.pubmatic.io^
+||hbopenbid.pubmatic.com^
+||leanplum.com^
+||www.leanplum.com^
+||api.leanplum.com^
+||consensu.org^
+||www.consensu.org^
+||vendorlist.consensu.org^
+||analytics.prod1.kraken.com^
+||analytics.kraken.com^
+||api2.branch.io^
+||analytics.service.cryptowat.ch^
+||common.i12.de^
+||ads.westfunk.de^
+||maxcdn.bootstrapcdn.com^
+||www.google-analytics.com^
+||analytics.vxcdn.com^
+||js-sec.indexww.com^
+||as.otto.de^
+||pixel.ionos.de^
+||pixel.consentric.de^
+||ww3.trackingq.de^
+||trackingq.de^
+||analytics.archive.org^
+||notifier.rarlab.com^
+||prod.telemetry.ros.rockstargames.com^
+||tracking.nw.de^
+||googleads.g.doubleclick.net^
+||sayhi.bplace.net^
+||adservice.google.com^
+||ad.doubleclick.net^
+||ssl.google-analytics.com^
+||telemetry.yazio.com^
+||bigdata.ssp.samsung.com^
+||metrics.mzstatic.com^
+||metrics.icloud.com^
+||supportmetrics.apple.com^
+||analytics-api.samsunghealthcn.com^
+||analytics.oneplus.cn^
+||sa.api.intl.miui.com^
+||v1.green-ads.net^
+||www.cdn.ad.xiaomi.com^
+||youtube.cleverads.vn^
+||trk.pinterest.com^
+||appmetrica.yandex.com^
+||securemetrics.apple.com^
+||telemetry.gfe.nvidia.com^
+||firebaseinstallations.googleapis.com^
+||location.services.mozilla.org^
+||polyfill.io^
+||cdn.polyfill.io^
+||donate.v2.xmrig.com^
+||admarkt.ebay-kleinanzeigen.de^
+||tracking.epicgames.com^
+||reporting.duit.de^
+||geolocation.onetrust.com^
 ||adjust.com^
-0.0.0.0 entry.io
-0.0.0.0 adperfect.shop
+||entry.io^
+||adperfect.shop^
 ||googleadservices.com^
-0.0.0.0 smartclip.net
-0.0.0.0 px1.vtrtl.de
+||smartclip.net^
+||px1.vtrtl.de^
 ||samsungcloud.tv^
 ||samsungcloudsolution.com^
 ||samsungacr.com^
 ||163.com^
-0.0.0.0 api.motion-tag.de
-0.0.0.0 api.helpshift.com
-0.0.0.0 rtm-intl-frontgate.ilivedata.com
+||api.motion-tag.de^
+||api.helpshift.com^
+||rtm-intl-frontgate.ilivedata.com^
 ||163yun.com^
