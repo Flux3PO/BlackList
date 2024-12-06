@@ -75,5 +75,5 @@
 ||ta-collector.centurygame.com^
 ||logagent-wf.centurygame.com^
 ||adjust.net.in^
-@@time.samsungcloudsolution.com^
+||@@time.samsungcloudsolution.com^
 ||statsig.com^
