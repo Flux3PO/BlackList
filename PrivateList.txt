@@ -62,9 +62,6 @@
 ||googleadservices.com^
 ||smartclip.net^
 ||px1.vtrtl.de^
-||samsungcloud.tv^
-||samsungcloudsolution.com^
-||samsungacr.com^
 ||163.com^
 ||api.motion-tag.de^
 ||api.helpshift.com^
@@ -75,5 +72,4 @@
 ||ta-collector.centurygame.com^
 ||logagent-wf.centurygame.com^
 ||adjust.net.in^
-||@@time.samsungcloudsolution.com^
 ||statsig.com^
