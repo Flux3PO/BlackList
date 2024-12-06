@@ -76,3 +76,4 @@
 ||logagent-wf.centurygame.com^
 ||adjust.net.in^
 @@time.samsungcloudsolution.com^
+||statsig.com^
