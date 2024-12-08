@@ -1,21 +1,6 @@
-# This list contains hosts I like to be blocked
-# MS Test Block Telemetry: https://www.golem.de/news/windows-microsoft-stuft-blockieren-von-telemetrie-als-bedrohung-ein-2008-150058.html
-||wns.notify.windows.com.akadns.net^
-||v10-win.vortex.data.microsoft.com.akadns.net^
-||us.vortex-win.data.microsoft.com^
-||us-v10.events.data.microsoft.com^
-||urs.microsoft.com.nsatc.net^
-||vsgallery.com^
-||telemetry.remoteapp.windowsazure.com^
-
+# Sites that should not be used
 ||bild.de^
-||www.bild.de^
-||wetter.bild.de^
-||don.bild.de^
-||shop.bild.de^
-||epaper.bild.de^
 ||connect.de^
-||www.connect.de^
 ||fr.app.chat.global.xiaomi.net^
 ||xmrig.moneroocean.stream^
 
@@ -24,114 +9,6 @@
 ||v10.events.data.microsoft.com^
 ||v10c.events.data.microsoft.com^
 ||v10.vortex-win.data.microsoft.com^
-||watson.telemetry.microsoft.com^
-||umwatsonc.events.data.microsoft.com^
-||*-umwatsonc.events.data.microsoft.com^
-||ceuswatcab01.blob.core.windows.net^
-||ceuswatcab02.blob.core.windows.net^
-||eaus2watcab01.blob.core.windows.net^
-||eaus2watcab02.blob.core.windows.net^
-||weus2watcab01.blob.core.windows.net^
-||weus2watcab02.blob.core.windows.net^
-||oca.microsoft.com^
-||kmwatsonc.events.data.microsoft.com^
-||*-kmwatsonc.events.data.microsoft.com^
-
-# ----------------------------------------------------------
-# PI-HOLE SOCIAL BLOCKLIST: PERISCOPE
-# ----------------------------------------------------------
-# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-periscope.txt
-# Copyright (c) 2020 Chris Pietschmann
-# License: MIT License
-# ----------------------------------------------------------
-||pscp.tv^
-||www.pscp.tv^
-
-# ----------------------------------------------------------
-# PI-HOLE SOCIAL BLOCKLIST: INSTAGRAM
-# ----------------------------------------------------------
-# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-instagram.txt
-# Copyright (c) 2020 Chris Pietschmann
-# License: MIT License
-# ----------------------------------------------------------
-||pinterest.com^
-||ct.pinterest.com^
-||analytics.pinterest.com^
-||ads.pinterest.com^
-
-# ----------------------------------------------------------
-# PI-HOLE SOCIAL BLOCKLIST: SNAPCHAT
-# ----------------------------------------------------------
-# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-snapchat.txt
-# Copyright (c) 2020 Chris Pietschmann
-# License: MIT License
-# ----------------------------------------------------------
-||snapchat.com^
-||www.snapchat.com^
-||ads.snapchat.com^
-||adsapi.snapchat.com^
-||accounts.snapchat.com^
-||geofilters.snapchat.com^
-||forbusiness.snapchat.com^
-||business.snapchat.com^
-||tr.snapchat.com^
-||businesshelp.snapchat.com^
-||snapcamera.snapchat.com^
-||support.snapchat.com^
-||snapads.com^
-||snapkit.com^
-||app-analytics.snapchat.com^
-
-# ----------------------------------------------------------
-# PI-HOLE SOCIAL BLOCKLIST: TIKTOK
-# ----------------------------------------------------------
-# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-tiktok.txt
-# Copyright (c) 2020 Chris Pietschmann
-# License: MIT License
-# ----------------------------------------------------------
-||tiktok.com^
-||www.tiktok.com^
-||ads.tiktok.com^
-||getstarted.tiktok.com^
-||m.tiktok.com^
-||careers.tiktok.com^
-||business.tiktok.com^
-||newsroom.tiktok.com^
-||t.tiktok.com^
-||activity.tiktok.com^
-||support.tiktok.com^
-||tiktokv.com^
-||log.tiktokv.com^
-||ib.tiktokv.com^
-||api.tiktokv.com^
-||api-h2.tiktokv.com^
-||tiktokcdn.com^
-||v16m.tiktokcdn.com^
-||v19.tiktokcdn.com^
-||v16a.tiktokcdn.com^
-||p16-tiktokcdn-com.akamaized.net^
-||v16-tiktokcdn-com.akamaized.net^
-||musical.ly^
-||mon.musical.ly^
-||api2-16-h2.musical.ly^
-||api2.musical.ly^
-||log2.musical.ly^
-||api2-21-h2.musical.ly^
-||musically.ly^
-
-# ----------------------------------------------------------
-# PI-HOLE SOCIAL BLOCKLIST: TUMBLR
-# ----------------------------------------------------------
-# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-tumblr.txt
-# Copyright (c) 2020 Chris Pietschmann
-# License: MIT License
-# ----------------------------------------------------------
-||tumblr.com^
-||www.tumblr.com^
-||66.media.tumblr.com^
-||media.tumblr.com^
-||action.tumblr.com^
-||68.media.tumblr.com^
 
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: WECHAT
