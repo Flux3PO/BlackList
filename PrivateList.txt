@@ -76,3 +76,4 @@
 ||incoming-telemetry.thunderbird.net^
 ||location.services.mozilla.com^
 ||telemetry-prod-1054754349.us-east-1.elb.amazonaws.com^
+||clicks.traderepublic.com^
