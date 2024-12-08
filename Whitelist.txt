@@ -1,2 +1,2 @@
-||newsstand.googleusercontent.com^
-||tripax.de
+@@||newsstand.googleusercontent.com^
+@@||tripax.de
