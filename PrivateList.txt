@@ -73,3 +73,5 @@
 ||logagent-wf.centurygame.com^
 ||adjust.net.in^
 ||statsig.com^
+||incoming-telemetry.thunderbird.net^
+||location.services.mozilla.com^
