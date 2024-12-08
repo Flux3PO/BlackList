@@ -1,2 +1,3 @@
 @@||newsstand.googleusercontent.com^
-@@||tripax.de
+@@||3gppnetwork.org^
+@@||maxcdn.bootstrapcdn.com^
