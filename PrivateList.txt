@@ -82,3 +82,4 @@
 ||etracker.com^
 ||trackandtrace-smartinbox.web.de^
 ||click-trk.com^
+||sentry.io^
