@@ -82,7 +82,6 @@
 ||etracker.com^
 ||trackandtrace-smartinbox.web.de^
 ||click-trk.com^
-||sentry.io^
 ||engagements.appsflyer.com^
 ||prod.ads.prod.webservices.mozgcp.net^
 ||tiles-cdn.prod.ads.prod.webservices.mozgcp.net^
