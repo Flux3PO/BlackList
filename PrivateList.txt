@@ -40,7 +40,7 @@
 ||analytics-api.samsunghealthcn.com^
 ||analytics.oneplus.cn^
 ||sa.api.intl.miui.com^
-||v1.green-ads.net^
+||green-ads.net^
 ||www.cdn.ad.xiaomi.com^
 ||youtube.cleverads.vn^
 ||trk.pinterest.com^
@@ -85,3 +85,4 @@
 ||sentry.io^
 ||engagements.appsflyer.com^
 ||prod.ads.prod.webservices.mozgcp.net^
+||tiles-cdn.prod.ads.prod.webservices.mozgcp.net^
