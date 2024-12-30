@@ -64,7 +64,6 @@
 ||px1.vtrtl.de^
 ||163.com^
 ||api.motion-tag.de^
-||api.helpshift.com^
 ||rtm-intl-frontgate.ilivedata.com^
 ||163yun.com^
 ||graph.facebook.com^
