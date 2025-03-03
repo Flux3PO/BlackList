@@ -84,3 +84,4 @@
 ||engagements.appsflyer.com^
 ||prod.ads.prod.webservices.mozgcp.net^
 ||tiles-cdn.prod.ads.prod.webservices.mozgcp.net^
+||prod.service.minerva.devices.a2z.com^
