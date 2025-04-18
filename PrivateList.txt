@@ -47,7 +47,6 @@
 ||appmetrica.yandex.com^
 ||securemetrics.apple.com^
 ||telemetry.gfe.nvidia.com^
-||firebaseinstallations.googleapis.com^
 ||location.services.mozilla.org^
 ||polyfill.io^
 ||cdn.polyfill.io^
