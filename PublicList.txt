@@ -6,9 +6,9 @@
 
 # Office Telemetry
 # https://learn.microsoft.com/de-de/windows/privacy/configure-windows-diagnostic-data-in-your-organization
-||v10.events.data.microsoft.com^
-||v10c.events.data.microsoft.com^
-||v10.vortex-win.data.microsoft.com^
+#||v10.events.data.microsoft.com^
+#||v10c.events.data.microsoft.com^
+#||v10.vortex-win.data.microsoft.com^
 
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: WECHAT
