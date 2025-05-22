@@ -84,3 +84,8 @@
 ||prod.ads.prod.webservices.mozgcp.net^
 ||tiles-cdn.prod.ads.prod.webservices.mozgcp.net^
 ||prod.service.minerva.devices.a2z.com^
+||hirsung.de^
+||einwilligungsspeicher.netid.de^
+||bilder.n-tv.de^
+||producer.analytics.brandsarelive.com^
+||tr.technical-service.net^
