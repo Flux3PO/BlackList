@@ -4,6 +4,8 @@
 ||fr.app.chat.global.xiaomi.net^
 ||xmrig.moneroocean.stream^
 ||donate.v2.xmrig.com^
+||wallet.now.gg^
+||www.google.cn^
 
 # Office Telemetry
 # https://learn.microsoft.com/de-de/windows/privacy/configure-windows-diagnostic-data-in-your-organization
