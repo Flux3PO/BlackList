@@ -1,3 +1,4 @@
 @@||newsstand.googleusercontent.com^
 @@||3gppnetwork.org^
 @@||maxcdn.bootstrapcdn.com^
+@@||api.cleverpush.com^
